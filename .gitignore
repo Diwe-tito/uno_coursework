@@ -1,0 +1,16 @@
+# Virtual environment
+myvenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Output
+output.txt
+debug_*.png
+
+# Images
+images/
